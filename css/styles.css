@@ -3944,7 +3944,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  /*color: #bd5d38;!*/
+  */color: #bd5d38;*/
   color: #0b1496;
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
@@ -4002,7 +4002,8 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  /*background-color: #bd5d38;*/
+  background-color: #0b1496;
 }
 
 .nav-fill > .nav-link,
