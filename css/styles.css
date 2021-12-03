@@ -310,6 +310,11 @@ svg {
   width: 50px;
 }
 
+.svgnav{
+  height: 25px;
+  width:25px;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
